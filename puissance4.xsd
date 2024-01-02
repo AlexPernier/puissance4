@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<!DOCTYPE cv SYSTEM "cv.dtd">-->
+<xsd:schema
+  xmlns:xsd='http://www.w3.org/2001/XMLSchema'>
+    <xsd:element name="grid"/>
+        <xsd:element name="row" type="xs:integer" minOccurs="7" maxOccurs="7"/>
+            <xsd:element name="column" type="xs:integer" minOccurs="6" maxOccurs="6"/>
+	            <xsd:element name="cell"/>
+                    <xsd:complexType>
+                        <xsd:simpleType>
+                            <xsd:restriction base="xsd:string">
+                                <xsd:enumeration value="rouge"/>
+                                <xsd:enumeration value="jaune" />
+                                <xsd:enumeration value="vide" />
+                            </xsd:restriction>
+                        </xsd:simpleType>
+                    </xsd:complexType>
+	            </xsd:element>
+	        </xsd:element>
+        </xsd:element>
+    </xsd:element>
+</xsd:schema>
