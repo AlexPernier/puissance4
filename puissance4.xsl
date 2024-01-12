@@ -15,8 +15,8 @@
         <circle xmlns="http://www.w3.org/2000/svg" cx="{@nbcellule*120}" cy="{../@nbrangee*120}" r="50" stroke="black" stroke-width="3">
             <xsl:attribute name="fill">
                 <xsl:choose>
-                    <xsl:when test=".='rouge'">yellow</xsl:when>
-                    <xsl:when test=".='jaune'">red</xsl:when>
+                    <xsl:when test=".='rouge'">red</xsl:when>
+                    <xsl:when test=".='jaune'">yellow</xsl:when>
                     <xsl:otherwise>grey</xsl:otherwise>
                 </xsl:choose>
             </xsl:attribute>
