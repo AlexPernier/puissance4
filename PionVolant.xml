@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<puissance4>
+  <rangee nbrangee="-1">
+    <cellule nbcellule="1">jaune</cellule>
+    <cellule nbcellule="2">rouge</cellule>
+    <cellule nbcellule="3">jaune</cellule>
+    <cellule nbcellule="4">rouge</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+  <rangee nbrangee="-2">
+    <cellule nbcellule="1">jaune</cellule>
+    <cellule nbcellule="2">rouge</cellule>
+    <cellule nbcellule="3">rouge</cellule>
+    <cellule nbcellule="4">rouge</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+  <rangee nbrangee="-3">
+    <cellule nbcellule="1">vide</cellule>
+    <cellule nbcellule="2">vide</cellule>
+    <cellule nbcellule="3">vide</cellule>
+    <cellule nbcellule="4">vide</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+  <rangee nbrangee="-4">
+    <cellule nbcellule="1">vide</cellule>
+    <cellule nbcellule="2">vide</cellule>
+    <cellule nbcellule="3">vide</cellule>
+    <cellule nbcellule="4">rouge</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+  <rangee nbrangee="-5">
+    <cellule nbcellule="1">vide</cellule>
+    <cellule nbcellule="2">vide</cellule>
+    <cellule nbcellule="3">vide</cellule>
+    <cellule nbcellule="4">vide</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+  <rangee nbrangee="-6">
+    <cellule nbcellule="1">vide</cellule>
+    <cellule nbcellule="2">vide</cellule>
+    <cellule nbcellule="3">vide</cellule>
+    <cellule nbcellule="4">vide</cellule>
+    <cellule nbcellule="5">vide</cellule>
+    <cellule nbcellule="6">vide</cellule>
+    <cellule nbcellule="7">vide</cellule>
+  </rangee>
+</puissance4>
